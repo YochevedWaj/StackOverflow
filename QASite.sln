@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QASite.Data", "QASite.Data\QASite.Data.csproj", "{9E30D05E-E053-452D-92B1-F97ED18D828D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QASite.Web", "QASite.Web\QASite.Web.csproj", "{42D48100-7AD5-43F8-9419-0955F78DDF2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E30D05E-E053-452D-92B1-F97ED18D828D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E30D05E-E053-452D-92B1-F97ED18D828D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E30D05E-E053-452D-92B1-F97ED18D828D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E30D05E-E053-452D-92B1-F97ED18D828D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D48100-7AD5-43F8-9419-0955F78DDF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D48100-7AD5-43F8-9419-0955F78DDF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D48100-7AD5-43F8-9419-0955F78DDF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D48100-7AD5-43F8-9419-0955F78DDF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33C685B0-F4C3-4A28-8134-CF11B4311166}
+	EndGlobalSection
+EndGlobal
